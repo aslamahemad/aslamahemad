@@ -7,7 +7,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WdnZbNVa4pMSZw45U9/giphy.gif" width="40"> **Connect with Me:**
+## <img src="https://media.giphy.com/media/WdnZbNVa4pMSZw45U9/giphy.gif" width="40"> **Connect with Me**
 
 <p align="center">
     <a href="mailto:aslamahemad@gmail.com">
@@ -22,7 +22,7 @@
     <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /></a>
 </p> 
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Skillset :**
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Skillset**
 
 <p align="center">
     <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
