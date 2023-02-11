@@ -1,4 +1,4 @@
-![let's connect](https://github.com/aslamahemad/Resume/blob/main/DevOps.jpg)
+![let's connect](https://github.com/aslamahemad/Resume/blob/main/DevOps.png)
 
 <h1 align="center">Hello World, I'm <a href="https://www.linkedin.com/in/aslamahemad"> Aslam Ahemad </a> 👋 </h1>
 <h3 align="center"> Detail-orientated DevOps Engineer, working with various teams and providing production support. Skilled at quickly learning new processes, technologies. Self-motivated with strong organizational and time management abilities. </h3>
