@@ -1,7 +1,12 @@
 ![let's connect](https://github.com/aslamahemad/Resume/blob/main/devops.png)
 
 <h1 align="center">Hello World, I'm <a href="https://www.linkedin.com/in/aslamahemad"> Aslam Ahemad </a> 👋 </h1>
-<h3 align="center"> Detail-orientated DevOps Engineer, working with various teams and providing production support. Skilled at quickly learning new processes, technologies. Self-motivated with strong organizational and time management abilities. </h3>
+
+Currently I'm hovering over DevOps.
+
+Previously I'd worked as an Administrator in Hadoop Ecosystem 🐘.
+
+You can see me lurking around new tech apart from finding Chamber of Secrets :wink:.
 
 ## <img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="40"> **[Resume](https://github.com/aslamahemad/resume/blob/main/AslamDevOpsResume.pdf)**
 
