@@ -6,7 +6,7 @@ Currently I'm hovering over DevOps.
 
 Previously I'd worked as an Administrator in Hadoop Ecosystem 🐘.
 
-You can see me lurking around new tech apart from managing a football team in FIFA and finding Chamber of Secrets :wink:.
+You can see me lurking around new tech apart from managing a football team in FIFA 08 :wink:.
 
 ## <img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="40"> **[Resume](https://github.com/aslamahemad/resume/blob/main/AslamDevOpsResume.pdf)**
 
