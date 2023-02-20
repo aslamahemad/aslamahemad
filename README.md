@@ -12,7 +12,7 @@ You can see me lurking around new tech apart from managing a football team in FI
 
 ---
 
-## <img src="https://media.giphy.com/media/WdnZbNVa4pMSZw45U9/giphy.gif" width="40"> **Connect with Me**
+## <img src="https://media.giphy.com/media/WdnZbNVa4pMSZw45U9/giphy.gif" width="40"> **Let's Connect**
 
 <p align="center">
     <a href="mailto:aslamahemad@gmail.com">
