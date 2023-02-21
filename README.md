@@ -1,4 +1,4 @@
-![let's connect](https://github.com/aslamahemad/Resume/blob/main/devops.png)
+![let's connect](https://github.com/aslamahemad/aslamahemad/blob/main/DevOps.png)
 
 <h1 align="center">Hello World, I'm <a href="https://www.linkedin.com/in/aslamahemad"> Aslam Ahemad </a> 👋 </h1>
 
@@ -8,7 +8,7 @@ Previously I'd worked as an Administrator in Hadoop Ecosystem 🐘.
 
 You can see me lurking around new tech apart from managing a football team in FIFA 08 :wink:.
 
-## <img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="40"> **[Resume](https://github.com/aslamahemad/resume/blob/main/AslamDevOpsResume.pdf)**
+## <img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="40"> **[Resume](https://github.com/aslamahemad/aslamahemad/blob/main/AslamDevOpsResume.pdf)**
 
 ---
 
