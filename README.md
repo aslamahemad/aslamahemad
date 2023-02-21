@@ -42,5 +42,6 @@ You can see me lurking around new tech apart from managing a football team in FI
     <a href="https://www.terraform.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/64713734/216823978-3757ceec-7a0d-46c4-8b66-851dd9b0ab7b.png" width="40" height="40"/> </a> 
     <a href="https://prometheus.io/" target="_blank"><img src="https://user-images.githubusercontent.com/64713734/216824472-db580f96-d22e-4805-9738-47822671ed61.png" alt="prometheus" width="40" height="40"/> </a>
     <a href="https://aws.amazon.com" target="_blank"><img src="https://user-images.githubusercontent.com/64713734/216819458-c42a1b19-fed6-484b-bc1a-468608348f99.png" width="40" height="40"/></a> 
-         
+     <a href="https://argo-cd.readthedocs.io/" target="_blank"><img src="https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.svg" width="40" height="40"/></a>
+     
 </p>
